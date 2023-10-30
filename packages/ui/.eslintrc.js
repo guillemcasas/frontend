@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["custom/react-internal"],
+  extends: ["evn/react-internal"],
 };
